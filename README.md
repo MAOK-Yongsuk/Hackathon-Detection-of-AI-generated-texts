@@ -2,4 +2,11 @@
 
 kaggle : https://www.kaggle.com/competitions/detection-of-ai-generated-texts
 
+### Assess yourself for this round of competition.
+
+| 💚  | 💛 | ❤️ |
+| --- | --- | --- |
+| Good | Fairly Good  | Poor |
+
+
 No. 5 ---> private_score 1.0000 💚
